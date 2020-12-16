@@ -20,7 +20,7 @@
 
 ---
 
-# More Projects
+### More Projects
 
 - [Housing Price Prediction](https://github.com/kevin7303/Housing-Price-Prediction-Model)
 - [Deep Learning Pet Image Recognition](https://github.com/kevin7303/Deep-Learning---Dogs_Cats)

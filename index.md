@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Google Playstore Downloads Classifier](http://https://github.com/kevin7303/Google-Playstore-Classification-Model)
+[Google Playstore Downloads Classifier](https://github.com/kevin7303/Google-Playstore-Classification-Model)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

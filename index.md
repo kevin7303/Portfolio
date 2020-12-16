@@ -23,7 +23,7 @@
 **Supervised machine learning algorithm to predict credit card default for a commercial bank based in Taiwan**
 
 <img src="images/Age.PNG?raw=true"/>
-<img src="images/Education.PNG?raw=true"/>
+<img src="images/attributes.png?raw=true"/>
 
 ---
 

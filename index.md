@@ -4,24 +4,24 @@
 
 ### Data Science Projects 
 
-[Google Playstore Downloads Classifier](/sample_page)
+[Google Playstore Downloads Classifier](http://https://github.com/kevin7303/Google-Playstore-Classification-Model)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[COVID-19 Mobility Restriction Impact on US Economy](/pdf/sample_presentation.pdf)
+[COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Credit Card Default Predictor](http://example.com/)
+[Credit Card Default Predictor](https://github.com/kevin7303/Credit-Card-Default-Predictor)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### More Projects
 
-- [Housing Price Prediction](http://example.com/)
-- [Deep Learning Pet Image Recognition](http://example.com/)
-- [Whole Foods Delivery Alert App](http://example.com/)
+- [Housing Price Prediction](https://github.com/kevin7303/Housing-Price-Prediction-Model)
+- [Deep Learning Pet Image Recognition](https://github.com/kevin7303/Deep-Learning---Dogs_Cats)
+- [Whole Foods Delivery Alert App](https://github.com/kevin7303/Whole-foods-Delivery-Slot-Alert)
 
 ---
 

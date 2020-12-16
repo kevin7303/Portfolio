@@ -5,13 +5,16 @@
 ### Data Science Projects 
 
 [Google Playstore Downloads Classifier](https://github.com/kevin7303/Google-Playstore-Classification-Model)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Machine Learning Model that predicts how many times an app will be downloaded given its attributes
 
----
-[COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
 <img src="images/App Ratings based on Price and Category.png?raw=true"/>
 <img src="images/Apps per bracket.png?raw=true"/>
 <img src="images/Apps per category.png?raw=true"/>
+
+
+---
+[COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Credit Card Default Predictor](https://github.com/kevin7303/Credit-Card-Default-Predictor)

@@ -3,7 +3,7 @@
 ---
 
 ## [Google Playstore Downloads Classifier](https://github.com/kevin7303/Google-Playstore-Classification-Model)
-**Machine Learning Model that predicts how many times an app will be downloaded given its attributes such as App Category, Price, Size, etc**
+**Clustering machine learning model that predicts how many times an app will be downloaded given its attributes such as App Category, Price, Size, etc**
 
 <img src="images/App Ratings based on Price and Category.png?raw=true"/>
 <img src="images/Apps per bracket.png?raw=true"/>
@@ -12,7 +12,7 @@
 
 ---
 ## [COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
-**Data Analysis on the impact of COVID19 on US Economy due to limitations on mobility to public spaces such as Shops, Parks and Groceries**
+**Data analysis on the impact of COVID19 on US Economy due to limitations on mobility to public spaces such as Shops, Parks and Groceries**
 
 <img src="images/USA.jfif?raw=true"/>
 <img src="images/sp500.png?raw=true"/>

@@ -20,7 +20,10 @@
 
 ---
 ## [Credit Card Default Predictor](https://github.com/kevin7303/Credit-Card-Default-Predictor)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Supervised machine learning algorithm to predict credit card default for a commercial bank based in Taiwan**
+
+<img src="images/age.png?raw=true"/>
+<img src="images/education.png?raw=true"/>
 
 ---
 

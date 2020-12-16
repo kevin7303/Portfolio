@@ -2,28 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
-[Project 1 Title](/sample_page)
+[Google Playstore Downloads Classifier](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[COVID-19 Mobility Restriction Impact on US Economy](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Credit Card Default Predictor](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### More Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Housing Price Prediction](http://example.com/)
+- [Deep Learning Pet Image Recognition](http://example.com/)
+- [Whole Foods Delivery Alert App](http://example.com/)
 
 ---
 

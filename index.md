@@ -14,6 +14,11 @@
 ## [COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
 **Data Analysis on the impact of COVID19 on US Economy due to limitations on mobility to public spaces such as Shops, Parks, etc**
 
+<img src="images/USA.jfif?raw=true"/>
+<img src="images/regions.gif?raw=true"/>
+<img src="images/sp500.png?raw=true"/>
+
+
 ---
 ## [Credit Card Default Predictor](https://github.com/kevin7303/Credit-Card-Default-Predictor)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

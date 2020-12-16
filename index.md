@@ -3,7 +3,7 @@
 ---
 
 ## [Google Playstore Downloads Classifier](https://github.com/kevin7303/Google-Playstore-Classification-Model)
-**Machine Learning Model that predicts how many times an app will be downloaded given its attributes
+**Machine Learning Model that predicts how many times an app will be downloaded given its attributes**
 
 <img src="images/App Ratings based on Price and Category.png?raw=true"/>
 <img src="images/Apps per bracket.png?raw=true"/>

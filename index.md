@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-# Data Science Projects 
+## Data Science Projects 
 
 ## [Google Playstore Downloads Classifier](https://github.com/kevin7303/Google-Playstore-Classification-Model)
 ### Machine Learning Model that predicts how many times an app will be downloaded given its attributes

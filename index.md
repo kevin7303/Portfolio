@@ -12,8 +12,9 @@
 
 ---
 ## [COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
+**Data Analysis on the impact of COVID19 on US Economy due to limitations on mobility to public spaces such as Shops, Parks, etc**
+
 <img src="images/USA.jfif?raw=true"/>
-<img src="images/feature_importance.png?raw=true"/>
 <img src="images/sp500.png?raw=true"/>
 
 ---

@@ -11,16 +11,16 @@
 
 
 ---
-[COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
+## [COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Credit Card Default Predictor](https://github.com/kevin7303/Credit-Card-Default-Predictor)
+## [Credit Card Default Predictor](https://github.com/kevin7303/Credit-Card-Default-Predictor)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### More Projects
+# More Projects
 
 - [Housing Price Prediction](https://github.com/kevin7303/Housing-Price-Prediction-Model)
 - [Deep Learning Pet Image Recognition](https://github.com/kevin7303/Deep-Learning---Dogs_Cats)
@@ -32,5 +32,5 @@
 
 
 ---
-<p style="font-size:8px">Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:9px">Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

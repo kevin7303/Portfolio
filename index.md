@@ -12,7 +12,9 @@
 
 ---
 ## [COVID-19 Mobility Restriction Impact on US Economy](https://github.com/kevin7303/COVID-Mobility-and-US-economy)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/USA.jfif?raw=true"/>
+<img src="images/feature_importance.png?raw=true"/>
+<img src="images/sp500.png?raw=true"/>
 
 ---
 ## [Credit Card Default Predictor](https://github.com/kevin7303/Credit-Card-Default-Predictor)

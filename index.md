@@ -40,5 +40,5 @@
 
 ---
 <p style="font-size:9px">Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<p style="font-size:9px">Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+<p style="font-size:9px">Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
 <!-- Remove above link if you don't want to attibute -->
